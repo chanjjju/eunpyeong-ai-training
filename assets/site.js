@@ -3,7 +3,7 @@
 /* ===== 강사 설정 ===== */
 const CONFIG = {
   // 강사 제공 관찰노트 폼의 사본 링크(…/copy). 비워 두면 안내 문구만 표시
-  observeFormCopyUrl: ''
+  observeFormCopyUrl: 'https://docs.google.com/forms/d/1oTUf_MejnyTkdyw8zgQcRqydUKYaGwBHFfwY7hpR584/copy#responses'
 };
 
 (function () {
